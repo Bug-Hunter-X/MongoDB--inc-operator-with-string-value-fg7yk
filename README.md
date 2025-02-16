@@ -1,0 +1,1 @@
+This repository demonstrates a common error when using the $inc operator in MongoDB. The incorrect usage of a string value instead of a number results in the update operation failing to increment the count field as expected. The solution provides the corrected code that uses a numerical value with the $inc operator.
